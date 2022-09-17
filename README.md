@@ -14,7 +14,7 @@
 
     2.进入wxid_你要改的微信ID 的文件夹 - Applet - wx一长串数字(进后面最近的日期文件夹)
 
-    - usr - gamecaches- resources\n\n");
+    - usr - gamecaches- resources
 
     3.按大小排序找到一个2kb的文件 - 将exe粘贴到目录中 - 以管理员身份运行
 
